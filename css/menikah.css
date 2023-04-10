@@ -47,7 +47,10 @@ html {
   font-family: 'Raleway', sans-serif;
 }
 
-
+.map {
+  height: 400px; /* The height is 400 pixels */
+  width: 100%; /* The width is the width of the web page */
+}
 
 .hero .title {
   font-family: 'Rouge Script', sans-serif;
@@ -491,16 +494,16 @@ body.preloader-site {
   font-size: 1.2rem;
   border-radius: 10px;
   border: 2px solid #bf7877;
-  width:  210px;
-  height: 65px;
+  width:  245px;
+  height: 71px;
   align-items: center;
   margin: 1rem;
 }
 
 .btn-cta {
   background-color: #996E6D;
-  width:  210px;
-  height: 65px;
+  width:  240px;
+  height: 69px;
   color: white;
   font-size: 1.2rem;
   border: 2px solid #996E6D;
